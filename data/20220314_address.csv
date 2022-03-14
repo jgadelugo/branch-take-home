@@ -1,0 +1,501 @@
+number,name,city,state,country,postcode,latitude,longitude,offset,description,created_at,address_id
+6737,Kirchstraße,Würselen,Rheinland-Pfalz,Germany,67421,-42.9637,-108.3730,+6:00,"Almaty, Dhaka, Colombo",2022-03-14,0
+4007,Montée du Chemin-Neuf,Pontresina,Basel-Stadt,Switzerland,2808,-47.7356,-8.5497,+7:00,"Bangkok, Hanoi, Jakarta",2022-03-14,1
+5831,Vatan Cd,Tunceli,Ağrı,Turkey,89421,64.8904,175.6961,+9:00,"Tokyo, Seoul, Osaka, Sapporo, Yakutsk",2022-03-14,2
+5154,Istiklal Cd,Kocaeli,Balıkesir,Turkey,58298,-52.1926,136.6466,-4:00,"Atlantic Time (Canada), Caracas, La Paz",2022-03-14,3
+2386,Fairview Road,Bangor,West Sussex,United Kingdom,Y0Y 3FY,-64.7887,-5.4646,+5:30,"Bombay, Calcutta, Madras, New Delhi",2022-03-14,4
+4309,Østrupvej,Roskilde,Sjælland,Denmark,28713,-19.6531,-88.4128,+4:00,"Abu Dhabi, Muscat, Baku, Tbilisi",2022-03-14,5
+4210,Pearse Street,Newbridge,Limerick,Ireland,28902,72.1669,-22.3363,+4:00,"Abu Dhabi, Muscat, Baku, Tbilisi",2022-03-14,6
+5219,Itsenäisyydenkatu,Ypäjä,Northern Savonia,Finland,71968,-42.9689,39.2577,+6:00,"Almaty, Dhaka, Colombo",2022-03-14,7
+7631,The Grove,Portmarnock,Galway,Ireland,38499,76.7767,-152.8615,+7:00,"Bangkok, Hanoi, Jakarta",2022-03-14,8
+5360,Bridge Road,Bath,Oxfordshire,United Kingdom,X3S 2TN,-32.9563,-62.5828,0:00,"Western Europe Time, London, Lisbon, Casablanca",2022-03-14,9
+6293,Fridtjof Nansens vei,Isebakke,Nord-Trøndelag,Norway,5523,-89.2161,-164.3780,+9:30,"Adelaide, Darwin",2022-03-14,10
+6679,Wai-Iti Road,Timaru,Nelson,New Zealand,23189,76.9889,-36.3550,+3:30,Tehran,2022-03-14,11
+1032,Rua São José ,Sorocaba,Tocantins,Brazil,29464,86.4257,-16.0348,+5:45,Kathmandu,2022-03-14,12
+30,رسالت,ملارد,قم,Iran,19701,39.1041,16.3992,+10:00,"Eastern Australia, Guam, Vladivostok",2022-03-14,13
+1821,Hakkesteeg,Berkhout,Groningen,Netherlands,17215,25.2979,-155.1235,+6:00,"Almaty, Dhaka, Colombo",2022-03-14,14
+15,Galgenberg,Idskenhuizen,Zeeland,Netherlands,88754,-14.3746,-33.3927,-4:00,"Atlantic Time (Canada), Caracas, La Paz",2022-03-14,15
+7060,Søvejen,Nykøbing Sj.,Nordjylland,Denmark,21690,46.9456,-22.1480,+11:00,"Magadan, Solomon Islands, New Caledonia",2022-03-14,16
+3758,Fairview Road,Stevenage,Northumberland,United Kingdom,YI49 4TR,75.3605,-49.3075,+3:30,Tehran,2022-03-14,17
+1256,Schlossstraße,Genthin,Bremen,Germany,99207,77.2762,66.7507,+8:00,"Beijing, Perth, Singapore, Hong Kong",2022-03-14,18
+8296,Buchenweg,Laatzen,Saarland,Germany,85755,-72.2432,47.5556,+9:00,"Tokyo, Seoul, Osaka, Sapporo, Yakutsk",2022-03-14,19
+2809,North Road,Passage West,Clare,Ireland,77202,12.8478,-81.0117,+5:30,"Bombay, Calcutta, Madras, New Delhi",2022-03-14,20
+4170,Mølletoften,Askeby,Syddanmark,Denmark,23268,88.9911,91.1969,-8:00,Pacific Time (US & Canada),2022-03-14,21
+8411,شهید بهشتی,گرگان,کهگیلویه و بویراحمد,Iran,44025,3.3543,-130.1962,-11:00,"Midway Island, Samoa",2022-03-14,22
+3432,Rua Belo Horizonte ,Maricá,Pará,Brazil,82881,-8.8626,-151.0730,-4:00,"Atlantic Time (Canada), Caracas, La Paz",2022-03-14,23
+9089,Rua João Xxiii,Guarapari,Paraná,Brazil,54898,55.3362,34.1418,+1:00,"Brussels, Copenhagen, Madrid, Paris",2022-03-14,24
+415,Rue Dumenge,Vitry-sur-Seine,Pyrénées-Orientales,France,51305,-73.7121,-19.4177,+5:30,"Bombay, Calcutta, Madras, New Delhi",2022-03-14,25
+3027,Bergstraße,Nördlingen,Brandenburg,Germany,32734,6.9280,-15.7518,+8:00,"Beijing, Perth, Singapore, Hong Kong",2022-03-14,26
+1311,Mühlenstraße,Brand-Erbisdorf,Brandenburg,Germany,74915,-31.0105,91.8801,-12:00,"Eniwetok, Kwajalein",2022-03-14,27
+114,Fenton Street,Palmerston North,Auckland,New Zealand,77819,-84.3783,55.1394,+3:00,"Baghdad, Riyadh, Moscow, St. Petersburg",2022-03-14,28
+1280,Albert Road,Galway,Kerry,Ireland,51573,-34.3421,-107.0012,-7:00,Mountain Time (US & Canada),2022-03-14,29
+7456,17 شهریور,سنندج,اصفهان,Iran,41672,-21.1600,128.2647,+8:00,"Beijing, Perth, Singapore, Hong Kong",2022-03-14,30
+3978,Vimy St,Inwood,Manitoba,Canada,I0I 9O7,-20.1214,58.6985,-7:00,Mountain Time (US & Canada),2022-03-14,31
+2419,Rue de L'Abbé-Roger-Derry,Klosters-Serneus,Genève,Switzerland,4219,28.6004,-124.2306,+4:00,"Abu Dhabi, Muscat, Baku, Tbilisi",2022-03-14,32
+3833,Tingvejen,Lundby,Sjælland,Denmark,59746,-58.2257,102.5547,+9:30,"Adelaide, Darwin",2022-03-14,33
+1044,Filistin Cd,Kütahya,Elazığ,Turkey,48454,-69.8764,-177.9194,+9:30,"Adelaide, Darwin",2022-03-14,34
+9429,Atatürk Sk,İzmir,Tekirdağ,Turkey,37653,-68.7803,-106.0541,+4:30,Kabul,2022-03-14,35
+5927,Avenue de la République,Dunkerque,Côte-D'Or,France,63232,65.6525,-73.4798,0:00,"Western Europe Time, London, Lisbon, Casablanca",2022-03-14,36
+7356,Prospect Rd,Bundaberg,New South Wales,Australia,4610,-3.3019,-50.8744,-8:00,Pacific Time (US & Canada),2022-03-14,37
+9155,Plantagevej,Bælum,Danmark,Denmark,68962,-76.8243,33.4766,+1:00,"Brussels, Copenhagen, Madrid, Paris",2022-03-14,38
+2160,Edmonton Road,Upper Hutt,Manawatu-Wanganui,New Zealand,12768,5.2048,-153.7009,-9:00,Alaska,2022-03-14,39
+1655,Kringlebekkveien,Løding,Vestfold,Norway,7466,66.8525,118.6603,-6:00,"Central Time (US & Canada), Mexico City",2022-03-14,40
+1467,O'Connell Avenue,Castlebar,Carlow,Ireland,72669,-1.1948,70.9839,-4:00,"Atlantic Time (Canada), Caracas, La Paz",2022-03-14,41
+3092,St. Catherine St,Chesterville,British Columbia,Canada,U4Z 4B1,86.4481,-103.1679,+9:30,"Adelaide, Darwin",2022-03-14,42
+7617,Main Road,Canterbury,Powys,United Kingdom,Z94 0NP,-3.6520,-109.9375,+3:00,"Baghdad, Riyadh, Moscow, St. Petersburg",2022-03-14,43
+4094,Lakeshore Rd,Shelby,Arizona,United States,65642,28.1616,-35.1677,-2:00,Mid-Atlantic,2022-03-14,44
+4088,Calle de La Luna,Cuenca,Región de Murcia,Spain,78666,-37.9118,-107.8603,-2:00,Mid-Atlantic,2022-03-14,45
+7697,Avenida da Legalidade,Caraguatatuba,Tocantins,Brazil,48392,17.0134,-50.7494,-1:00,"Azores, Cape Verde Islands",2022-03-14,46
+2356,میدان دکتر فاطمی / جهاد,اراک,خراسان شمالی,Iran,88134,73.3284,47.2725,+5:00,"Ekaterinburg, Islamabad, Karachi, Tashkent",2022-03-14,47
+55,Avenue du Fort-Caire,Versailles,Hérault,France,24855,-12.1065,-152.5204,-10:00,Hawaii,2022-03-14,48
+5318,Pirkankatu,Pomarkku,Åland,Finland,46458,75.0079,-147.0394,-8:00,Pacific Time (US & Canada),2022-03-14,49
+7045,Montée Saint-Barthélémy,Vevey,Jura,Switzerland,8817,-67.6138,146.1777,+5:00,"Ekaterinburg, Islamabad, Karachi, Tashkent",2022-03-14,50
+5197,Feldstraße,Gardelegen,Schleswig-Holstein,Germany,34768,-41.7881,-167.7706,0:00,"Western Europe Time, London, Lisbon, Casablanca",2022-03-14,51
+6768,Rue du Bât-D'Argent,Chavannes-le-Chêne,Obwalden,Switzerland,2528,48.1718,177.6897,+11:00,"Magadan, Solomon Islands, New Caledonia",2022-03-14,52
+1281,پارک طالقانی,نجف‌آباد,سیستان و بلوچستان,Iran,54926,63.1978,146.8217,-5:00,"Eastern Time (US & Canada), Bogota, Lima",2022-03-14,53
+416,Rua da Paz ,Maringá,Distrito Federal,Brazil,63184,40.1606,-111.8371,-3:30,Newfoundland,2022-03-14,54
+846,Avenida de Andalucía,Santiago de Compostela,La Rioja,Spain,38923,17.1604,-24.2333,+9:30,"Adelaide, Darwin",2022-03-14,55
+3667,Montée Saint-Barthélémy,Meierskappel,Zug,Switzerland,9536,38.8584,138.2931,+3:30,Tehran,2022-03-14,56
+9400,Rue de L'Abbé-Soulange-Bodin,Saint-Denis,Marne,France,93405,-57.6942,89.2838,+5:00,"Ekaterinburg, Islamabad, Karachi, Tashkent",2022-03-14,57
+8961,Rua Rui Barbosa ,Teixeira de Freitas,São Paulo,Brazil,12287,37.6522,-103.8036,+3:00,"Baghdad, Riyadh, Moscow, St. Petersburg",2022-03-14,58
+1070,Kruiswoud,Ootmarsum,Groningen,Netherlands,63275,-73.0257,165.0679,+3:30,Tehran,2022-03-14,59
+4184,حقانی,زنجان,لرستان,Iran,13803,54.0485,-66.1106,+5:00,"Ekaterinburg, Islamabad, Karachi, Tashkent",2022-03-14,60
+1031,Rue de la Gare,Fort-de-France,Ardèche,France,55832,77.7872,-131.4100,-2:00,Mid-Atlantic,2022-03-14,61
+1728,Kamerijkstraat,Hartwerd,Gelderland,Netherlands,94590,78.4330,-3.9371,-2:00,Mid-Atlantic,2022-03-14,62
+3142,Bakkegårdsvej,Sørvad,Danmark,Denmark,22244,11.9485,75.6185,+5:45,Kathmandu,2022-03-14,63
+24,Şehitler Cd,Kastamonu,Karaman,Turkey,18095,-50.9904,32.9312,+4:00,"Abu Dhabi, Muscat, Baku, Tbilisi",2022-03-14,64
+5811,Olasrudveien,Hausvik,Oppland,Norway,3608,-55.0458,160.4981,+9:00,"Tokyo, Seoul, Osaka, Sapporo, Yakutsk",2022-03-14,65
+4517,Church Street,Cardiff,Oxfordshire,United Kingdom,KR9H 2FD,18.7187,80.8087,-8:00,Pacific Time (US & Canada),2022-03-14,66
+5257,Cork Street,Athenry,Kerry,Ireland,21856,-24.4839,141.0725,-7:00,Mountain Time (US & Canada),2022-03-14,67
+2525,North Street,Chichester,Berkshire,United Kingdom,DO4 6JP,-42.6029,136.9764,+9:00,"Tokyo, Seoul, Osaka, Sapporo, Yakutsk",2022-03-14,68
+4918,Drogterweg,Zuna,Drenthe,Netherlands,47131,-82.3551,149.0100,+7:00,"Bangkok, Hanoi, Jakarta",2022-03-14,69
+9323,Mill Lane,Sunderland,Humberside,United Kingdom,E7 2FA,68.5556,-21.4833,-7:00,Mountain Time (US & Canada),2022-03-14,70
+6794,Brick Kiln Road,Salisbury,Clwyd,United Kingdom,I9M 3UR,-59.4175,166.2382,-2:00,Mid-Atlantic,2022-03-14,71
+4650,Place de L'Abbé-Franz-Stock,Hausen am Albis,Graubünden,Switzerland,5929,65.8594,-98.6996,0:00,"Western Europe Time, London, Lisbon, Casablanca",2022-03-14,72
+3488,Calle de La Almudena,Torrevieja,Aragón,Spain,66204,52.6266,-166.1116,-3:30,Newfoundland,2022-03-14,73
+7969,Griffioenstraat,Heenvliet,Gelderland,Netherlands,93054,53.3872,-143.4403,-3:00,"Brazil, Buenos Aires, Georgetown",2022-03-14,74
+9383,Fredrikinkatu,Laitila,Lapland,Finland,33185,-13.2981,-168.4720,+4:30,Kabul,2022-03-14,75
+2907,Poplar Dr,Oxnard,Georgia,United States,82371,51.8182,36.1627,+1:00,"Brussels, Copenhagen, Madrid, Paris",2022-03-14,76
+8696,Kleine Meerlaan,Tjerkgaast,Utrecht,Netherlands,97932,20.4043,104.0436,+5:00,"Ekaterinburg, Islamabad, Karachi, Tashkent",2022-03-14,77
+843,Rua Santa Rita ,Araras,Rio de Janeiro,Brazil,61872,38.7165,168.4115,-5:00,"Eastern Time (US & Canada), Bogota, Lima",2022-03-14,78
+1154,Schillerstraße,Wemding,Hessen,Germany,57976,-29.1527,118.3963,-11:00,"Midway Island, Samoa",2022-03-14,79
+6979,Dickens Street,Porirua,Waikato,New Zealand,63413,77.6988,-6.7394,+4:00,"Abu Dhabi, Muscat, Baku, Tbilisi",2022-03-14,80
+6274,Pyynikintie,Ranua,Ostrobothnia,Finland,24471,19.4296,6.6737,+11:00,"Magadan, Solomon Islands, New Caledonia",2022-03-14,81
+4431,Valley View Ln,San Jose,Massachusetts,United States,36502,-82.9812,-146.1045,+4:00,"Abu Dhabi, Muscat, Baku, Tbilisi",2022-03-14,82
+8256,Stevens Creek Blvd,Peoria,Ohio,United States,81257,-14.2721,97.0840,-11:00,"Midway Island, Samoa",2022-03-14,83
+1795,Hortengata,Lena,Oppland,Norway,3196,7.1356,-121.4107,-12:00,"Eniwetok, Kwajalein",2022-03-14,84
+156,شیخ فضل الله نوری,بوشهر,گلستان,Iran,17098,-45.4874,-63.1184,-4:00,"Atlantic Time (Canada), Caracas, La Paz",2022-03-14,85
+7462,Myllypuronkatu,Pello,Satakunta,Finland,48248,-59.3823,75.1893,-2:00,Mid-Atlantic,2022-03-14,86
+1743,Mill Road,Exeter,Leicestershire,United Kingdom,N6 0QN,-11.1616,-162.6282,+1:00,"Brussels, Copenhagen, Madrid, Paris",2022-03-14,87
+4255,Place de L'Abbé-Jean-Lebeuf,Gorgier,Bern,Switzerland,3919,-10.8542,-107.6223,-12:00,"Eniwetok, Kwajalein",2022-03-14,88
+3165,Universal Drive,Whangarei,Tasman,New Zealand,50326,-25.5859,-115.0943,+4:30,Kabul,2022-03-14,89
+5094,Rue Barrier,Châtillon (Ju),Basel-Landschaft,Switzerland,8064,75.3731,16.3487,-9:00,Alaska,2022-03-14,90
+7945,Miller Ave,Sydney,New South Wales,Australia,1059,-46.1166,61.1304,+4:00,"Abu Dhabi, Muscat, Baku, Tbilisi",2022-03-14,91
+341,Rue D'Abbeville,Oberhallau,Ticino,Switzerland,5392,-57.9499,-19.7597,+8:00,"Beijing, Perth, Singapore, Hong Kong",2022-03-14,92
+6564,Drosselweg,Eisleben,Hamburg,Germany,14177,45.9362,57.8337,-1:00,"Azores, Cape Verde Islands",2022-03-14,93
+7543,Fliederweg,Waiblingen,Bremen,Germany,60789,4.2665,67.7704,+7:00,"Bangkok, Hanoi, Jakarta",2022-03-14,94
+6826,Richmond Ave,Alma,Nova Scotia,Canada,N5O 6K2,84.6623,-140.7800,0:00,"Western Europe Time, London, Lisbon, Casablanca",2022-03-14,95
+6023,Avenida D. Pedro Ii,Bragança Paulista,Roraima,Brazil,94751,54.3601,88.1429,-11:00,"Midway Island, Samoa",2022-03-14,96
+408,Calle del Prado,Jerez de la Frontera,País Vasco,Spain,14462,1.2738,-108.6425,-9:00,Alaska,2022-03-14,97
+6961,Visiokatu,Akaa,Pirkanmaa,Finland,61331,-26.5391,59.8828,+1:00,"Brussels, Copenhagen, Madrid, Paris",2022-03-14,98
+1966,W Belt Line Rd,Austin,Washington,United States,87295,33.6178,158.4175,-1:00,"Azores, Cape Verde Islands",2022-03-14,99
+9622,Hermiankatu,Valkeakoski,Pirkanmaa,Finland,97381,20.7296,-165.6704,+9:00,"Tokyo, Seoul, Osaka, Sapporo, Yakutsk",2022-03-14,100
+5147,O'Connell Avenue,Mountmellick,Offaly,Ireland,97484,-44.2619,-10.1789,-1:00,"Azores, Cape Verde Islands",2022-03-14,101
+5481,James St,Geelong,Tasmania,Australia,5102,16.9620,-141.5022,+1:00,"Brussels, Copenhagen, Madrid, Paris",2022-03-14,102
+2492,22nd Ave,Oakville,British Columbia,Canada,K1P 9E8,-56.2958,157.4983,+9:00,"Tokyo, Seoul, Osaka, Sapporo, Yakutsk",2022-03-14,103
+5043,The Crescent,Birmingham,County Down,United Kingdom,ZE9Z 8ZG,-7.2078,-130.1550,+9:30,"Adelaide, Darwin",2022-03-14,104
+4315,Avenue Paul Eluard,Valbirse,Basel-Stadt,Switzerland,8341,28.4788,-53.1236,-7:00,Mountain Time (US & Canada),2022-03-14,105
+6089,Rua Treze ,Atibaia,Rio Grande do Norte,Brazil,91889,-82.0164,-94.0818,-5:00,"Eastern Time (US & Canada), Bogota, Lima",2022-03-14,106
+8805,Rue du Dauphiné,Nîmes,Pyrénées-Orientales,France,29530,65.3484,-40.8839,-9:00,Alaska,2022-03-14,107
+6120,Boulevard de Balmont,Brest,Eure-et-Loir,France,66274,-33.7675,8.5743,-3:00,"Brazil, Buenos Aires, Georgetown",2022-03-14,108
+2503,Rua Mato Grosso ,Natal,Pernambuco,Brazil,47421,65.1773,-136.7380,-10:00,Hawaii,2022-03-14,109
+5212,Støttumveien,Harpefoss,Oppland,Norway,5132,-13.8266,-122.5504,+9:30,"Adelaide, Darwin",2022-03-14,110
+326,Calle de La Democracia,Zaragoza,Extremadura,Spain,41333,10.1983,-82.3291,-3:00,"Brazil, Buenos Aires, Georgetown",2022-03-14,111
+7498,Totara Avenue,Greymouth,Wellington,New Zealand,24852,-52.2426,-167.5670,-8:00,Pacific Time (US & Canada),2022-03-14,112
+9877,9th St,Cochrane,Nova Scotia,Canada,B6L 0P0,-89.3491,99.0485,-6:00,"Central Time (US & Canada), Mexico City",2022-03-14,113
+6535,Thomles gate,Alsvåg,Sør-Trøndelag,Norway,5713,74.5569,58.0687,-11:00,"Midway Island, Samoa",2022-03-14,114
+5103,Central St,Laredo,Oregon,United States,71424,28.4640,101.7525,-9:00,Alaska,2022-03-14,115
+1023,Avenida de Andalucía,Ferrol,Ceuta,Spain,29207,-36.2316,115.0488,+9:30,"Adelaide, Darwin",2022-03-14,116
+6560,Østergade,Roedovre,Midtjylland,Denmark,52060,-16.7764,-176.6251,+5:00,"Ekaterinburg, Islamabad, Karachi, Tashkent",2022-03-14,117
+7110,Rue de la Gare,Corcelles-près-Concise,Zug,Switzerland,6347,-58.4833,9.2556,-9:00,Alaska,2022-03-14,118
+6160,Bonzijweg,Wamel,Zuid-Holland,Netherlands,83189,-48.7371,-129.3940,+11:00,"Magadan, Solomon Islands, New Caledonia",2022-03-14,119
+4866,Rue Paul-Duvivier,Brest,Jura,France,67641,-78.5821,-81.2544,+2:00,"Kaliningrad, South Africa",2022-03-14,120
+8293,Maunganui Road,Invercargill,Tasman,New Zealand,60239,-1.5530,-31.9641,+5:00,"Ekaterinburg, Islamabad, Karachi, Tashkent",2022-03-14,121
+7718,Fasanenweg,Weißenburg In Bayern,Rheinland-Pfalz,Germany,75865,-45.1440,122.2881,-5:00,"Eastern Time (US & Canada), Bogota, Lima",2022-03-14,122
+9041,Montée du Chemin-Neuf,Nantes,Ardennes,France,12487,52.0313,120.7605,-5:00,"Eastern Time (US & Canada), Bogota, Lima",2022-03-14,123
+5322,Siilitie,Naantali,Satakunta,Finland,44976,-15.4242,173.4004,+10:00,"Eastern Australia, Guam, Vladivostok",2022-03-14,124
+7115,Blossom Hill Rd,Lewiston,North Dakota,United States,59372,85.7930,167.0871,-5:00,"Eastern Time (US & Canada), Bogota, Lima",2022-03-14,125
+1978,Elizabeth Street,Nelson,Marlborough,New Zealand,50233,77.9984,87.2495,+4:00,"Abu Dhabi, Muscat, Baku, Tbilisi",2022-03-14,126
+7122,Esplanadi,Vähäkyrö,Central Ostrobothnia,Finland,82294,-11.5116,40.9471,-7:00,Mountain Time (US & Canada),2022-03-14,127
+9530,Thornridge Cir,Queanbeyan,Victoria,Australia,8625,69.8951,155.7511,-12:00,"Eniwetok, Kwajalein",2022-03-14,128
+8117,West Street,Exeter,County Fermanagh,United Kingdom,TV6U 8BL,40.1387,-177.1128,-2:00,Mid-Atlantic,2022-03-14,129
+9145,Rue Barrème,Lussy-sur-Morges,Zug,Switzerland,6020,51.4427,-160.1756,-3:30,Newfoundland,2022-03-14,130
+4414,Vesteråsveien,Fredrikstad,Rogaland,Norway,5888,-69.0663,-114.8354,+4:00,"Abu Dhabi, Muscat, Baku, Tbilisi",2022-03-14,131
+4229,Rue de la Gare,Lille,Gers,France,79226,62.3866,-178.7913,-6:00,"Central Time (US & Canada), Mexico City",2022-03-14,132
+5669,Rua Pernambuco ,Jaboatão dos Guararapes,Mato Grosso do Sul,Brazil,31678,88.0035,171.1336,0:00,"Western Europe Time, London, Lisbon, Casablanca",2022-03-14,133
+6528,Rue Bony,Poitiers,Ille-et-Vilaine,France,84152,63.1748,134.3054,+9:00,"Tokyo, Seoul, Osaka, Sapporo, Yakutsk",2022-03-14,134
+5019,Neue Straße,Balingen,Schleswig-Holstein,Germany,54196,-57.5015,-131.7846,-6:00,"Central Time (US & Canada), Mexico City",2022-03-14,135
+8275,Lessingstraße,Gräfenthal,Niedersachsen,Germany,33602,-56.7103,-44.2622,+3:30,Tehran,2022-03-14,136
+2132,The Green,Glasgow,Cumbria,United Kingdom,H14 7SP,-52.2830,12.6923,+4:30,Kabul,2022-03-14,137
+9053,میدان فلسطین,شهریار,کرمان,Iran,59347,66.3517,-120.7061,+6:00,"Almaty, Dhaka, Colombo",2022-03-14,138
+8218,Deans Avenue,Whangarei,West Coast,New Zealand,46665,0.4094,-22.7439,+7:00,"Bangkok, Hanoi, Jakarta",2022-03-14,139
+4964,Kushimoto Sk,Şırnak,Kars,Turkey,45724,-0.7878,148.3581,0:00,"Western Europe Time, London, Lisbon, Casablanca",2022-03-14,140
+5990,Nøklevannsveien,Bjørnevatn,Sogn og Fjordane,Norway,2438,68.5607,68.8943,-1:00,"Azores, Cape Verde Islands",2022-03-14,141
+2541,Greenwood St,Greymouth,Nelson,New Zealand,32173,-35.1613,-92.0418,-7:00,Mountain Time (US & Canada),2022-03-14,142
+3055,Devonport Road,Napier,Otago,New Zealand,77479,-27.2830,154.6563,+1:00,"Brussels, Copenhagen, Madrid, Paris",2022-03-14,143
+4465,Mill Lane,Lusk,Kilkenny,Ireland,25689,50.1841,14.5456,+10:00,"Eastern Australia, Guam, Vladivostok",2022-03-14,144
+8286,Wairere Drive,Napier,Auckland,New Zealand,71869,72.0059,160.8125,-5:00,"Eastern Time (US & Canada), Bogota, Lima",2022-03-14,145
+3160,Arctic Way,Victoria,Northwest Territories,Canada,O8B 6O5,83.8594,32.4517,+5:30,"Bombay, Calcutta, Madras, New Delhi",2022-03-14,146
+6967,Schützenstraße,Neuburg-Schrobenhausen,Nordrhein-Westfalen,Germany,19411,-20.7998,-160.1225,+6:00,"Almaty, Dhaka, Colombo",2022-03-14,147
+8128,Tulpenweg,Ruhland,Hessen,Germany,83156,-75.1166,-9.4312,+5:45,Kathmandu,2022-03-14,148
+901,Schillerstraße,Burghausen,Brandenburg,Germany,54565,86.6695,62.5768,+6:00,"Almaty, Dhaka, Colombo",2022-03-14,149
+9673,Korkeavuorenkatu,Karvia,Northern Ostrobothnia,Finland,12657,-84.7304,-124.3042,+7:00,"Bangkok, Hanoi, Jakarta",2022-03-14,150
+2080,Haukelibakken,Krokeidet,Sogn og Fjordane,Norway,5172,63.1727,-108.3151,+6:00,"Almaty, Dhaka, Colombo",2022-03-14,151
+8816,Hegewarren,Luxwoude,Zuid-Holland,Netherlands,69678,-24.3876,51.1134,+4:30,Kabul,2022-03-14,152
+5290,High Street,Nelson,Southland,New Zealand,93747,-2.1693,44.7148,+2:00,"Kaliningrad, South Africa",2022-03-14,153
+6342,Frederick Ave,Keswick,Northwest Territories,Canada,L9K 5N9,48.6824,10.6804,+3:00,"Baghdad, Riyadh, Moscow, St. Petersburg",2022-03-14,154
+4980,Groenewegje,Niftrik,Drenthe,Netherlands,85520,58.2892,84.5632,-3:30,Newfoundland,2022-03-14,155
+4737,Timber Wolf Trail,Warrnambool,Tasmania,Australia,9961,85.6076,164.4332,-11:00,"Midway Island, Samoa",2022-03-14,156
+623,Theodor Løvstads vei,Lysøysund,Nord-Trøndelag,Norway,7712,-3.4308,-60.0039,-9:00,Alaska,2022-03-14,157
+4704,Slåmotgangen,Halden,Sogn og Fjordane,Norway,0789,-28.6802,-97.1217,-5:00,"Eastern Time (US & Canada), Bogota, Lima",2022-03-14,158
+505,Necatibey Cd,Karabük,Gümüşhane,Turkey,96167,-6.8894,45.2088,+1:00,"Brussels, Copenhagen, Madrid, Paris",2022-03-14,159
+2684,Rue de L'Abbé-Migne,Rueil-Malmaison,Essonne,France,24224,74.3207,-35.0023,-4:00,"Atlantic Time (Canada), Caracas, La Paz",2022-03-14,160
+1970,Cuba Street,Whanganui,Bay of Plenty,New Zealand,70109,-21.5569,-128.4094,-7:00,Mountain Time (US & Canada),2022-03-14,161
+4646,Main Road,Nottingham,County Antrim,United Kingdom,J38 4LN,58.5769,-17.0852,-12:00,"Eniwetok, Kwajalein",2022-03-14,162
+419,میدان امام حسین,شیراز,کرمانشاه,Iran,57138,-79.3175,92.6357,+3:30,Tehran,2022-03-14,163
+8251,Rua Paraíba ,Parnaíba,Sergipe,Brazil,38362,60.6823,-35.7056,+3:30,Tehran,2022-03-14,164
+9982,Place de L'Abbé-Franz-Stock,Dunkerque,Guadeloupe,France,70476,-44.5890,154.4358,+3:00,"Baghdad, Riyadh, Moscow, St. Petersburg",2022-03-14,165
+8712,Church Road,Arklow,Kilkenny,Ireland,39806,20.3480,-56.0943,-6:00,"Central Time (US & Canada), Mexico City",2022-03-14,166
+8654,Universal Drive,Hamilton,West Coast,New Zealand,73322,-38.3756,64.0947,-8:00,Pacific Time (US & Canada),2022-03-14,167
+3160,W Pecan St,Birmingham,Arkansas,United States,73331,48.2879,105.7281,-10:00,Hawaii,2022-03-14,168
+7059,Eason Rd,Huntington Beach,Utah,United States,61212,37.4461,-82.9127,+2:00,"Kaliningrad, South Africa",2022-03-14,169
+5932,Blossom Hill Rd,Tweed,Australian Capital Territory,Australia,1384,58.6448,-172.3016,+5:00,"Ekaterinburg, Islamabad, Karachi, Tashkent",2022-03-14,170
+5272,22nd Ave,Dorchester,Prince Edward Island,Canada,C0E 3T6,72.0027,-10.1970,+6:00,"Almaty, Dhaka, Colombo",2022-03-14,171
+2216,Jahnstraße,Montabaur,Hamburg,Germany,65166,-41.6360,159.0335,+9:30,"Adelaide, Darwin",2022-03-14,172
+7323,Hybenvænget,Roedovre,Hovedstaden,Denmark,43731,42.3702,152.1642,+3:00,"Baghdad, Riyadh, Moscow, St. Petersburg",2022-03-14,173
+2042,Blossom Hill Rd,Grants Pass,Connecticut,United States,87575,-27.9916,-163.2908,-12:00,"Eniwetok, Kwajalein",2022-03-14,174
+1072,South Street,Buncrana,Louth,Ireland,78764,73.4506,-18.0914,-7:00,Mountain Time (US & Canada),2022-03-14,175
+6417,شهید باهنر,ایلام,آذربایجان شرقی,Iran,44856,16.6689,-8.7181,-5:00,"Eastern Time (US & Canada), Bogota, Lima",2022-03-14,176
+1076,Tehtaankatu,Ähtäri,Kymenlaakso,Finland,71270,-63.4841,-158.3798,-11:00,"Midway Island, Samoa",2022-03-14,177
+8484,Brouwersgreft,Daarle,Friesland,Netherlands,31039,-2.4431,52.1933,-3:00,"Brazil, Buenos Aires, Georgetown",2022-03-14,178
+2274,Mevlana Cd,Ardahan,Kocaeli,Turkey,23584,-71.3387,-107.1878,+4:00,"Abu Dhabi, Muscat, Baku, Tbilisi",2022-03-14,179
+4197,Remuera Road,Porirua,Taranaki,New Zealand,74764,-7.5632,19.1286,+3:30,Tehran,2022-03-14,180
+6302,Henrick de Keijserplein,Alteveer gem de Wolden,Groningen,Netherlands,12001,87.0700,-179.3942,-4:00,"Atlantic Time (Canada), Caracas, La Paz",2022-03-14,181
+8271,Furubråtveien,Skiptvet,Oppland,Norway,5534,12.4665,-77.6907,+9:30,"Adelaide, Darwin",2022-03-14,182
+17,Gartenstraße,Buchloe,Thüringen,Germany,55681,-87.3858,-151.7814,+2:00,"Kaliningrad, South Africa",2022-03-14,183
+6014,Maple Ave,Stratford,Nova Scotia,Canada,Q3F 5U2,76.6828,26.6507,+11:00,"Magadan, Solomon Islands, New Caledonia",2022-03-14,184
+7413,Rue du Moulin,Brest,Calvados,France,43002,-79.6844,85.9141,+8:00,"Beijing, Perth, Singapore, Hong Kong",2022-03-14,185
+8318,Hunnenberg,Basse,Flevoland,Netherlands,95700,89.2835,-46.6312,+11:00,"Magadan, Solomon Islands, New Caledonia",2022-03-14,186
+5644,Valhallveien,Arendal,Aust-Agder,Norway,2280,-23.0194,-178.6718,-10:00,Hawaii,2022-03-14,187
+8685,Montée du Chemin-Neuf,Rüschlikon,Nidwalden,Switzerland,5880,87.0559,-42.5990,+2:00,"Kaliningrad, South Africa",2022-03-14,188
+231,Vatan Cd,Adıyaman,Sakarya,Turkey,35103,-35.5264,-157.2822,+8:00,"Beijing, Perth, Singapore, Hong Kong",2022-03-14,189
+1298,Klintevej,Hirtsals,Nordjylland,Denmark,42228,-54.7222,175.2307,+7:00,"Bangkok, Hanoi, Jakarta",2022-03-14,190
+5539,Boulevard de Balmont,Saint-Denis,Isère,France,55899,27.3363,-134.6609,-6:00,"Central Time (US & Canada), Mexico City",2022-03-14,191
+1937,شهید آقاسرمدیان,قدس,خوزستان,Iran,24193,-22.6132,64.8114,-10:00,Hawaii,2022-03-14,192
+7041,Calle de Arganzuela,Zaragoza,Navarra,Spain,62873,50.6215,78.1450,-5:00,"Eastern Time (US & Canada), Bogota, Lima",2022-03-14,193
+5342,Bay Ave,Stratford,Nunavut,Canada,I8Y 7P0,31.5732,154.1054,-5:00,"Eastern Time (US & Canada), Bogota, Lima",2022-03-14,194
+7261,Filistin Cd,Trabzon,Mersin,Turkey,44432,-40.8805,178.9560,-1:00,"Azores, Cape Verde Islands",2022-03-14,195
+1764,Teglbakken,Hirtsals,Sjælland,Denmark,43079,24.7308,-46.1848,-9:00,Alaska,2022-03-14,196
+8422,Agervænget,Sundby/Erslev,Sjælland,Denmark,95944,72.4760,-48.5478,-10:00,Hawaii,2022-03-14,197
+7576,Calle de Ángel García,Logroño,Extremadura,Spain,93438,7.0350,-0.3385,+5:45,Kathmandu,2022-03-14,198
+2058,Middelthuns gate,Sand,Møre og Romsdal,Norway,6392,29.5446,116.6666,+5:00,"Ekaterinburg, Islamabad, Karachi, Tashkent",2022-03-14,199
+5288,Grafton Street,Carlow,Kilkenny,Ireland,26000,6.3168,-14.8081,-1:00,"Azores, Cape Verde Islands",2022-03-14,200
+5933,Lone Wolf Trail,Busselton,New South Wales,Australia,5819,-20.7620,151.1131,+11:00,"Magadan, Solomon Islands, New Caledonia",2022-03-14,201
+9966,Central St,Brisbane,Australian Capital Territory,Australia,4247,52.6755,-125.9837,+11:00,"Magadan, Solomon Islands, New Caledonia",2022-03-14,202
+7727,Grand Ave,Grand Falls,Nova Scotia,Canada,G0N 6H7,-51.3250,13.2616,+11:00,"Magadan, Solomon Islands, New Caledonia",2022-03-14,203
+7267,Napier-Hastings Expressway,Gisborne,Marlborough,New Zealand,67335,-80.2894,72.0812,-5:00,"Eastern Time (US & Canada), Bogota, Lima",2022-03-14,204
+553,پارک طالقانی,ورامین,قزوین,Iran,35313,-34.4590,-74.0397,+9:00,"Tokyo, Seoul, Osaka, Sapporo, Yakutsk",2022-03-14,205
+2659,Strand Road,Buncrana,Monaghan,Ireland,42337,-25.3039,-127.6612,+4:00,"Abu Dhabi, Muscat, Baku, Tbilisi",2022-03-14,206
+8678,Church Street,Whangarei,Gisborne,New Zealand,13817,-84.9657,-125.1921,+5:30,"Bombay, Calcutta, Madras, New Delhi",2022-03-14,207
+5201,Te Mata Road,Porirua,Gisborne,New Zealand,56450,-33.9598,3.8883,-7:00,Mountain Time (US & Canada),2022-03-14,208
+2719,ایران,خوی,خوزستان,Iran,65511,65.9232,-178.5826,+5:45,Kathmandu,2022-03-14,209
+5125,Rautatienkatu,Juankoski,Kainuu,Finland,84054,-22.8634,-156.7145,-5:00,"Eastern Time (US & Canada), Bogota, Lima",2022-03-14,210
+514,Highfield Road,Tramore,Cork City,Ireland,62525,79.4118,-63.9468,-6:00,"Central Time (US & Canada), Mexico City",2022-03-14,211
+2454,Green Rd,Cary,Alabama,United States,63009,-12.4557,-103.1712,+3:00,"Baghdad, Riyadh, Moscow, St. Petersburg",2022-03-14,212
+1841,Rue D'Abbeville,Teufenthal (Ag),Solothurn,Switzerland,1214,-28.4878,67.2063,-3:00,"Brazil, Buenos Aires, Georgetown",2022-03-14,213
+7621,Rue des Écoles,Doppleschwand,Vaud,Switzerland,7744,-31.2283,-111.0755,-7:00,Mountain Time (US & Canada),2022-03-14,214
+8889,Rua Pará ,Cuiabá,Roraima,Brazil,72267,-26.0970,15.4588,-9:00,Alaska,2022-03-14,215
+9018,Guyton Street,Whanganui,Bay of Plenty,New Zealand,18089,-6.7229,57.1294,+4:30,Kabul,2022-03-14,216
+2434,Victoria Road,Letterkenny,Louth,Ireland,99158,-57.9179,103.3597,+3:00,"Baghdad, Riyadh, Moscow, St. Petersburg",2022-03-14,217
+7457,36th Ave,Chipman,Saskatchewan,Canada,H6N 7Z1,2.2736,-4.8393,+5:00,"Ekaterinburg, Islamabad, Karachi, Tashkent",2022-03-14,218
+2689,Nowlin Rd,Albany,South Australia,Australia,7387,20.1752,-165.3996,-3:30,Newfoundland,2022-03-14,219
+3902,Mevlana Cd,Nevşehir,Elazığ,Turkey,68593,15.3298,83.6719,-11:00,"Midway Island, Samoa",2022-03-14,220
+6734,Rue de L'Abbé-Soulange-Bodin,Fort-de-France,Gard,France,47977,-45.8141,97.8430,-4:00,"Atlantic Time (Canada), Caracas, La Paz",2022-03-14,221
+1194,پاتریس لومومبا,خوی,خراسان شمالی,Iran,62913,65.1502,99.7927,-5:00,"Eastern Time (US & Canada), Bogota, Lima",2022-03-14,222
+6181,Durham Street,Tauranga,Nelson,New Zealand,82064,-57.3389,109.0377,+5:45,Kathmandu,2022-03-14,223
+5136,Rue Abel-Gance,Colombes,Martinique,France,49364,24.5896,-40.0952,+4:00,"Abu Dhabi, Muscat, Baku, Tbilisi",2022-03-14,224
+9302,Rua Principal,Ribeirão Preto,Rondônia,Brazil,56952,68.1499,167.7550,+9:00,"Tokyo, Seoul, Osaka, Sapporo, Yakutsk",2022-03-14,225
+5155,Tahmelantie,Oulu,Central Ostrobothnia,Finland,37262,79.6643,86.3755,-6:00,"Central Time (US & Canada), Mexico City",2022-03-14,226
+6754,Clark Avenue,Blenheim,Auckland,New Zealand,58184,24.3769,145.3666,-6:00,"Central Time (US & Canada), Mexico City",2022-03-14,227
+4476,George St,Keswick,Newfoundland and Labrador,Canada,O0S 3P3,18.8467,160.0255,+6:00,"Almaty, Dhaka, Colombo",2022-03-14,228
+731,Mill Lane,Southampton,Suffolk,United Kingdom,G47 4WQ,47.8659,59.9778,+6:00,"Almaty, Dhaka, Colombo",2022-03-14,229
+542,The Green,Westminster,County Tyrone,United Kingdom,X4Y 0RJ,59.5575,168.0088,-11:00,"Midway Island, Samoa",2022-03-14,230
+9036,Vatan Cd,Bursa,Siirt,Turkey,86424,9.7009,-99.4187,-9:00,Alaska,2022-03-14,231
+6598,Calle Covadonga,Parla,Región de Murcia,Spain,70031,41.7849,101.2455,+3:30,Tehran,2022-03-14,232
+1507,Bergstraße,Nienburg/Weser,Mecklenburg-Vorpommern,Germany,84538,-14.0768,-146.8531,-7:00,Mountain Time (US & Canada),2022-03-14,233
+6319,Wycliff Ave,Fayetteville,Arkansas,United States,90962,15.5473,23.8466,+4:30,Kabul,2022-03-14,234
+7854,Rue du 8 Mai 1945,Mulhouse,Moselle,France,95173,-63.9632,10.2567,-3:30,Newfoundland,2022-03-14,235
+5021,Opoho Road,Invercargill,Waikato,New Zealand,98597,-20.9984,-45.4550,-4:00,"Atlantic Time (Canada), Caracas, La Paz",2022-03-14,236
+4611,Woodlawn Avenue,Wicklow,Meath,Ireland,97683,3.3242,162.1378,-7:00,Mountain Time (US & Canada),2022-03-14,237
+1950,Necatibey Cd,Rize,Zonguldak,Turkey,24609,72.8943,-130.3518,-5:00,"Eastern Time (US & Canada), Bogota, Lima",2022-03-14,238
+2409,Wycliff Ave,Devonport,Western Australia,Australia,4776,-58.3673,-126.1198,+1:00,"Brussels, Copenhagen, Madrid, Paris",2022-03-14,239
+9268,Rue Abel-Hovelacque,Blumenstein,Bern,Switzerland,7265,-32.8463,96.9067,+4:00,"Abu Dhabi, Muscat, Baku, Tbilisi",2022-03-14,240
+8732,Rue Bony,Cressier (Fr),Zug,Switzerland,9362,40.2076,-151.1199,-10:00,Hawaii,2022-03-14,241
+4574,Rue du Dauphiné,Saint-Denis,Creuse,France,33088,-31.0510,62.4436,+8:00,"Beijing, Perth, Singapore, Hong Kong",2022-03-14,242
+1592,Rue Paul-Duvivier,Embrach,Fribourg,Switzerland,7222,58.3059,-109.6589,+3:00,"Baghdad, Riyadh, Moscow, St. Petersburg",2022-03-14,243
+197,Walnut Hill Ln,Cleveland,Idaho,United States,46084,21.8363,-48.1324,-12:00,"Eniwetok, Kwajalein",2022-03-14,244
+2611,شهید مطهری,نیشابور,کرمانشاه,Iran,45679,0.5135,-142.7431,+10:00,"Eastern Australia, Guam, Vladivostok",2022-03-14,245
+8110,Pirkankatu,Pudasjärvi,North Karelia,Finland,69509,-63.1280,111.1826,+4:00,"Abu Dhabi, Muscat, Baku, Tbilisi",2022-03-14,246
+3578,Mühlweg,Hamminkeln,Hessen,Germany,84229,-57.5048,-134.4275,-5:00,"Eastern Time (US & Canada), Bogota, Lima",2022-03-14,247
+9427,Rosenhoffgata,Møvik,Hedmark,Norway,8218,-69.0432,-43.3716,-3:00,"Brazil, Buenos Aires, Georgetown",2022-03-14,248
+6892,Frances Ct,Warragul,South Australia,Australia,988,15.0804,115.7290,+9:00,"Tokyo, Seoul, Osaka, Sapporo, Yakutsk",2022-03-14,249
+9915,Fjeldhøikroken,Maura,Oppland,Norway,2742,0.2540,69.0023,-3:00,"Brazil, Buenos Aires, Georgetown",2022-03-14,250
+9800,Rectory Lane,Ely,Dorset,United Kingdom,JX3 1GY,-30.3879,57.5471,+5:30,"Bombay, Calcutta, Madras, New Delhi",2022-03-14,251
+2937,High Street,Bath,County Armagh,United Kingdom,W7 5SF,60.1378,-174.6959,-1:00,"Azores, Cape Verde Islands",2022-03-14,252
+1550,Brick Kiln Road,Wolverhampton,Gloucestershire,United Kingdom,NB4I 7TW,-85.0679,-125.2739,-8:00,Pacific Time (US & Canada),2022-03-14,253
+5905,Grove Road,Salford,Dorset,United Kingdom,XP18 8PN,42.4009,123.3419,+10:00,"Eastern Australia, Guam, Vladivostok",2022-03-14,254
+2151,Hijinkhoekweg,Scharwoude,Zeeland,Netherlands,31251,-51.4763,54.8889,+3:00,"Baghdad, Riyadh, Moscow, St. Petersburg",2022-03-14,255
+8950,Calle del Prado,Santander,Comunidad de Madrid,Spain,18365,86.1086,12.8997,+3:00,"Baghdad, Riyadh, Moscow, St. Petersburg",2022-03-14,256
+1944,Filistin Cd,Antalya,Bitlis,Turkey,31162,22.4420,-159.2371,+4:30,Kabul,2022-03-14,257
+9859,George St,Beaumont,Saskatchewan,Canada,J0R 5B6,-74.4558,-0.9606,+4:30,Kabul,2022-03-14,258
+8609,De Overtoom,Ijsselmuiden,Limburg,Netherlands,50857,72.9753,13.8721,+11:00,"Magadan, Solomon Islands, New Caledonia",2022-03-14,259
+3429,Harmoniestraat,Hartwerd,Utrecht,Netherlands,99782,84.5505,117.4739,+2:00,"Kaliningrad, South Africa",2022-03-14,260
+5857,ستارخان,ارومیه,کهگیلویه و بویراحمد,Iran,41684,10.0632,156.1213,+9:00,"Tokyo, Seoul, Osaka, Sapporo, Yakutsk",2022-03-14,261
+5382,Anafartalar Cd,Gümüşhane,Isparta,Turkey,87185,-5.9046,-121.4303,-1:00,"Azores, Cape Verde Islands",2022-03-14,262
+4818,Devon Street,Porirua,Canterbury,New Zealand,14139,84.9381,-27.8311,+9:30,"Adelaide, Darwin",2022-03-14,263
+6503,Rua Carlos Gomes,Palhoça,São Paulo,Brazil,41538,-15.2533,-40.1283,+7:00,"Bangkok, Hanoi, Jakarta",2022-03-14,264
+6193,Place du 22 Novembre 1943,Tourcoing,Val-de-Marne,France,97432,-68.0142,78.4850,+8:00,"Beijing, Perth, Singapore, Hong Kong",2022-03-14,265
+9341,Travessa dos Martírios,Mossoró,Tocantins,Brazil,72396,12.6204,123.6031,+3:30,Tehran,2022-03-14,266
+5225,Hybenvænget,Aarhus N,Nordjylland,Denmark,71476,87.1802,-115.1814,+9:00,"Tokyo, Seoul, Osaka, Sapporo, Yakutsk",2022-03-14,267
+1432,Church Lane,Bristol,Merseyside,United Kingdom,N1I 4NL,-33.0259,11.1013,+7:00,"Bangkok, Hanoi, Jakarta",2022-03-14,268
+722,Rautatienkatu,Hartola,Northern Savonia,Finland,44921,-79.8623,43.8094,+7:00,"Bangkok, Hanoi, Jakarta",2022-03-14,269
+1552,Taradale Road,Lower Hutt,Tasman,New Zealand,92419,67.7515,-150.2022,-9:00,Alaska,2022-03-14,270
+7065,Tehtaankatu,Paimio,Åland,Finland,51232,39.3154,43.4254,+9:30,"Adelaide, Darwin",2022-03-14,271
+9252,New Street,Newry,Tayside,United Kingdom,F3B 0AQ,-8.6970,57.6818,+5:30,"Bombay, Calcutta, Madras, New Delhi",2022-03-14,272
+3982,Grove Road,Castlebar,Mayo,Ireland,10875,-32.0002,-103.6797,+2:00,"Kaliningrad, South Africa",2022-03-14,273
+2836,New Road,Malahide,Dublin City,Ireland,55259,-27.6305,32.9943,+5:45,Kathmandu,2022-03-14,274
+3516,Springfield Road,Belfast,Avon,United Kingdom,D0 5GQ,10.2003,48.3156,+3:00,"Baghdad, Riyadh, Moscow, St. Petersburg",2022-03-14,275
+5757,Rue D'Abbeville,Versailles,Creuse,France,48366,1.0322,-52.6761,0:00,"Western Europe Time, London, Lisbon, Casablanca",2022-03-14,276
+7511,Hoffsjef Løvenskiolds vei,Olderdalen,Hedmark,Norway,8720,-45.3143,90.5533,-3:30,Newfoundland,2022-03-14,277
+7466,Avenida de Burgos,Mérida,Asturias,Spain,32508,-27.9003,-171.0787,+3:00,"Baghdad, Riyadh, Moscow, St. Petersburg",2022-03-14,278
+5136,Calle de Bravo Murillo,Madrid,Canarias,Spain,27175,-54.8192,-50.7177,-5:00,"Eastern Time (US & Canada), Bogota, Lima",2022-03-14,279
+6377,The Green,Kilkenny,Limerick,Ireland,87009,17.4649,13.1501,-1:00,"Azores, Cape Verde Islands",2022-03-14,280
+3778,Dublin Road,Galway,Kilkenny,Ireland,86754,-29.5767,-105.1682,-7:00,Mountain Time (US & Canada),2022-03-14,281
+8130,Atatürk Sk,Kocaeli,İzmir,Turkey,11072,81.0268,50.2558,+1:00,"Brussels, Copenhagen, Madrid, Paris",2022-03-14,282
+7231,Birkenweg,Elstra,Sachsen,Germany,20614,79.6596,-44.3867,+5:00,"Ekaterinburg, Islamabad, Karachi, Tashkent",2022-03-14,283
+1498,Nordenskiöldinkatu,Nurmes,Åland,Finland,88566,80.5709,78.4382,+11:00,"Magadan, Solomon Islands, New Caledonia",2022-03-14,284
+8536,Victoria Ave,Aylmer,Ontario,Canada,H9T 6K3,-24.4944,158.3456,-3:00,"Brazil, Buenos Aires, Georgetown",2022-03-14,285
+2737,Rua João Xxiii,Várzea Grande,Piauí,Brazil,23677,-28.3632,-47.8293,-12:00,"Eniwetok, Kwajalein",2022-03-14,286
+3385,Main Street,Laytown-Bettystown-Mornington,Carlow,Ireland,98729,-42.5540,162.3107,+2:00,"Kaliningrad, South Africa",2022-03-14,287
+4023,De Tuut,Haarlem,Utrecht,Netherlands,18908,-77.0229,26.9475,+6:00,"Almaty, Dhaka, Colombo",2022-03-14,288
+1156,Dogwood Ave,Sunshine Coast,Victoria,Australia,9263,73.4774,179.4033,+11:00,"Magadan, Solomon Islands, New Caledonia",2022-03-14,289
+7136,Charles St,Chipman,Yukon,Canada,O3T 9T9,74.4951,77.7138,+5:45,Kathmandu,2022-03-14,290
+8047,Hogan St,Tulsa,Massachusetts,United States,78647,-20.8784,88.8384,-4:00,"Atlantic Time (Canada), Caracas, La Paz",2022-03-14,291
+8058,Parliament St,Lloydminster,Manitoba,Canada,I0M 7L4,47.3828,-127.6797,+4:30,Kabul,2022-03-14,292
+309,Rautatienkatu,Tyrnävä,Uusimaa,Finland,93626,55.3273,-58.8947,-3:00,"Brazil, Buenos Aires, Georgetown",2022-03-14,293
+3430,Walnut Hill Ln,Albany,Northern Territory,Australia,938,72.6812,146.6012,+8:00,"Beijing, Perth, Singapore, Hong Kong",2022-03-14,294
+6559,Mannerheimintie,Hausjärvi,North Karelia,Finland,32985,89.4455,85.0396,-3:00,"Brazil, Buenos Aires, Georgetown",2022-03-14,295
+6271,O'Connell Street,Enniscorthy,Waterford,Ireland,59875,-71.1490,-34.4839,-3:00,"Brazil, Buenos Aires, Georgetown",2022-03-14,296
+6132,Bağdat Cd,Aksaray,Ankara,Turkey,10425,5.9768,-150.9695,+3:00,"Baghdad, Riyadh, Moscow, St. Petersburg",2022-03-14,297
+6789,سپهبد قرنی,قم,سمنان,Iran,35740,-20.5818,83.1024,+6:00,"Almaty, Dhaka, Colombo",2022-03-14,298
+5104,Pine Rd,Springfield,Newfoundland and Labrador,Canada,J5M 6A0,-66.4336,-141.2638,+1:00,"Brussels, Copenhagen, Madrid, Paris",2022-03-14,299
+1036,Römerstraße,Weiterstadt,Schleswig-Holstein,Germany,64373,86.7701,175.3129,+10:00,"Eastern Australia, Guam, Vladivostok",2022-03-14,300
+384,Bulevardi,Taivalkoski,Tavastia Proper,Finland,71504,-81.5729,30.3978,+3:30,Tehran,2022-03-14,301
+662,Calle de Arganzuela,Gandía,Galicia,Spain,21182,-35.2374,-54.3261,0:00,"Western Europe Time, London, Lisbon, Casablanca",2022-03-14,302
+5860,Goethestraße,Regis-Breitingen,Niedersachsen,Germany,58389,16.7750,-168.7815,+9:00,"Tokyo, Seoul, Osaka, Sapporo, Yakutsk",2022-03-14,303
+99,Calle de Toledo,Zaragoza,Comunidad Valenciana,Spain,29381,-68.3681,-63.1105,+5:30,"Bombay, Calcutta, Madras, New Delhi",2022-03-14,304
+1995,Rua Rui Barbosa ,Barbacena,Tocantins,Brazil,11444,-42.9767,77.3688,-9:00,Alaska,2022-03-14,305
+3641,Rautatienkatu,Kauhava,Northern Savonia,Finland,68079,-37.1599,96.8089,+3:30,Tehran,2022-03-14,306
+8692,Rotuaari,Oulainen,North Karelia,Finland,77568,10.7597,138.3831,+4:00,"Abu Dhabi, Muscat, Baku, Tbilisi",2022-03-14,307
+7187,Brugseheide,Warstiens,Groningen,Netherlands,21393,-48.6645,-18.4634,-4:00,"Atlantic Time (Canada), Caracas, La Paz",2022-03-14,308
+4989,Talak Göktepe Cd,Ordu,Samsun,Turkey,62554,65.1513,-36.7347,-11:00,"Midway Island, Samoa",2022-03-14,309
+1597,Calle de Alberto Aguilera,Las Palmas de Gran Canaria,Aragón,Spain,98330,14.2761,45.4083,+9:00,"Tokyo, Seoul, Osaka, Sapporo, Yakutsk",2022-03-14,310
+2431,Mcgowen St,Albury,Queensland,Australia,5235,37.4236,140.1729,-4:00,"Atlantic Time (Canada), Caracas, La Paz",2022-03-14,311
+1486,شهید همت,اسلام‌شهر,تهران,Iran,87545,-16.2190,-116.2909,-3:30,Newfoundland,2022-03-14,312
+728,Blossom Hill Rd,Hervey Bay,Queensland,Australia,4934,72.8277,158.0809,-4:00,"Atlantic Time (Canada), Caracas, La Paz",2022-03-14,313
+1944,Timber Wolf Trail,Bathurst,Western Australia,Australia,6285,41.4021,169.6839,-9:00,Alaska,2022-03-14,314
+8020,Rua Maranhão ,Campos dos Goytacazes,Rio Grande do Sul,Brazil,30886,70.5088,-2.8618,+5:00,"Ekaterinburg, Islamabad, Karachi, Tashkent",2022-03-14,315
+2957,Rue de la Barre,Lyon,Bas-Rhin,France,66218,25.1375,-138.7884,0:00,"Western Europe Time, London, Lisbon, Casablanca",2022-03-14,316
+1304,هویزه,زنجان,اصفهان,Iran,28080,9.4281,-125.1844,+5:00,"Ekaterinburg, Islamabad, Karachi, Tashkent",2022-03-14,317
+7852,Groveland Terrace,Launceston,New South Wales,Australia,5140,-49.8932,-164.9862,-6:00,"Central Time (US & Canada), Mexico City",2022-03-14,318
+9899,Solvangsvej,Hornbæk,Nordjylland,Denmark,18641,23.4325,73.2346,-4:00,"Atlantic Time (Canada), Caracas, La Paz",2022-03-14,319
+2604,Hjørungkroken,Solsletta,Oslo,Norway,0252,28.5093,160.1115,-11:00,"Midway Island, Samoa",2022-03-14,320
+4920,Rue de L'Abbé-De-L'Épée,Metz,Creuse,France,19889,49.6085,-68.9658,-2:00,Mid-Atlantic,2022-03-14,321
+4517,Rua São Paulo ,Várzea Grande,Piauí,Brazil,92214,-63.5564,177.1091,-12:00,"Eniwetok, Kwajalein",2022-03-14,322
+7371,Tunalı Hilmi Cd,Samsun,Ankara,Turkey,64897,-82.6956,-32.1833,-7:00,Mountain Time (US & Canada),2022-03-14,323
+6780,London Road,Bangor,Hertfordshire,United Kingdom,F8 9NZ,79.5827,-141.1797,-6:00,"Central Time (US & Canada), Mexico City",2022-03-14,324
+9733,Montée Saint-Barthélémy,Glarus Süd,Neuchâtel,Switzerland,9067,41.3059,-0.4278,-5:00,"Eastern Time (US & Canada), Bogota, Lima",2022-03-14,325
+1884,Rue de L'Abbé-Migne,Lyon,Puy-de-Dôme,France,15483,41.1099,128.7672,-7:00,Mountain Time (US & Canada),2022-03-14,326
+5909,Tennyson Street,Wellington,Tasman,New Zealand,86942,20.8160,93.0821,+2:00,"Kaliningrad, South Africa",2022-03-14,327
+2728,Concession Road 23,Alma,Northwest Territories,Canada,D5D 5B9,-76.2352,23.1695,-9:00,Alaska,2022-03-14,328
+1594,Harrison Ct,Bendigo,Australian Capital Territory,Australia,5903,55.1056,-48.9607,-4:00,"Atlantic Time (Canada), Caracas, La Paz",2022-03-14,329
+1608,Rue André-Gide,Toulon,Ardèche,France,22753,-64.2292,124.5220,+9:00,"Tokyo, Seoul, Osaka, Sapporo, Yakutsk",2022-03-14,330
+2955,Industriestraße,Grevesmühlen,Saarland,Germany,57825,30.5679,-79.5847,-2:00,Mid-Atlantic,2022-03-14,331
+4182,شهید همت,بوشهر,لرستان,Iran,88245,9.0034,91.4119,-4:00,"Atlantic Time (Canada), Caracas, La Paz",2022-03-14,332
+8623,Cherry St,Melbourne,Western Australia,Australia,4543,-1.2518,-43.1467,+5:45,Kathmandu,2022-03-14,333
+1550,Avenida del Planetario,Pontevedra,Comunidad Valenciana,Spain,56293,88.7777,-3.7872,+11:00,"Magadan, Solomon Islands, New Caledonia",2022-03-14,334
+242,Nørrebro,Assens,Hovedstaden,Denmark,26507,-3.8191,-65.8833,-10:00,Hawaii,2022-03-14,335
+2462,Østerbyvej,Juelsminde,Nordjylland,Denmark,43527,4.3071,-156.7798,+9:30,"Adelaide, Darwin",2022-03-14,336
+8560,School Lane,Dunboyne,Wexford,Ireland,53425,40.2683,33.7172,+3:00,"Baghdad, Riyadh, Moscow, St. Petersburg",2022-03-14,337
+5587,West Ave,Glenwood,Northwest Territories,Canada,J6H 8F5,51.7121,89.1776,-12:00,"Eniwetok, Kwajalein",2022-03-14,338
+5945,Königsberger Straße,Grünhain-Beierfeld,Hessen,Germany,99920,-78.4679,76.5969,+5:45,Kathmandu,2022-03-14,339
+1942,Den Walhoeck,Aarlanderveen,Limburg,Netherlands,19244,-62.1793,6.8106,+4:00,"Abu Dhabi, Muscat, Baku, Tbilisi",2022-03-14,340
+5936,Sjællandsgade,Øster Assels,Syddanmark,Denmark,64771,53.0224,-153.5956,+8:00,"Beijing, Perth, Singapore, Hong Kong",2022-03-14,341
+9999,The Green,Tuam,Laois,Ireland,70774,-54.2739,39.8665,+8:00,"Beijing, Perth, Singapore, Hong Kong",2022-03-14,342
+7506,Ådalsvej,Nr Åby,Syddanmark,Denmark,96094,-77.4879,146.8855,-12:00,"Eniwetok, Kwajalein",2022-03-14,343
+1778,Princess Street,Greymouth,Marlborough,New Zealand,69574,-61.4463,70.5134,-7:00,Mountain Time (US & Canada),2022-03-14,344
+8121,Avenida de La Albufera,Palma de Mallorca,Islas Baleares,Spain,39723,75.3931,84.9933,0:00,"Western Europe Time, London, Lisbon, Casablanca",2022-03-14,345
+6150,Rue Pasteur,Buchrain,Solothurn,Switzerland,6300,-60.3427,150.2697,+5:00,"Ekaterinburg, Islamabad, Karachi, Tashkent",2022-03-14,346
+6675,Grønlandsparken,Allinge,Midtjylland,Denmark,78279,45.8781,-7.2830,+9:30,"Adelaide, Darwin",2022-03-14,347
+2490,Rue de Cuire,Villeurbanne,Oise,France,50876,6.8447,150.6949,-2:00,Mid-Atlantic,2022-03-14,348
+5715,Mevlana Cd,Denizli,Muğla,Turkey,75383,48.7518,-114.7479,+6:00,"Almaty, Dhaka, Colombo",2022-03-14,349
+1895,Rua Dezesseis de Maio,Olinda,Rio de Janeiro,Brazil,71719,45.5616,-100.8322,-4:00,"Atlantic Time (Canada), Caracas, La Paz",2022-03-14,350
+3959,Boulevard de Balmont,Créteil,Loire,France,66989,-61.9982,-127.1660,+3:00,"Baghdad, Riyadh, Moscow, St. Petersburg",2022-03-14,351
+2162,Brunnenstraße,Marlow,Hamburg,Germany,90275,26.3643,-13.3163,-11:00,"Midway Island, Samoa",2022-03-14,352
+7031,Balmoral St,Campbellton,Yukon,Canada,I5P 4O2,-18.3737,49.3410,+4:30,Kabul,2022-03-14,353
+5265,Pispalan Valtatie,Iisalmi,Finland Proper,Finland,14916,-8.4468,-47.4185,+9:00,"Tokyo, Seoul, Osaka, Sapporo, Yakutsk",2022-03-14,354
+1012,Place de L'Abbé-Jean-Lebeuf,Amiens,Hauts-de-Seine,France,38212,67.9697,-108.2193,+3:30,Tehran,2022-03-14,355
+803,Prospect Rd,Bundaberg,Victoria,Australia,7752,-42.3156,177.3154,-2:00,Mid-Atlantic,2022-03-14,356
+7599,Avenida Brasil ,Poá,Distrito Federal,Brazil,95011,-18.4117,73.8270,+2:00,"Kaliningrad, South Africa",2022-03-14,357
+9032,Rua Castro Alves ,Ourinhos,Rio de Janeiro,Brazil,48980,-77.3025,49.0450,+9:30,"Adelaide, Darwin",2022-03-14,358
+3116,Ranchview Dr,Simi Valley,Maine,United States,19913,24.4225,-166.8110,-7:00,Mountain Time (US & Canada),2022-03-14,359
+9276,Stevens Creek Blvd,Lafayette,Tennessee,United States,60081,-30.4552,134.4290,-6:00,"Central Time (US & Canada), Mexico City",2022-03-14,360
+717,Rue des Abbesses,Plaffeien,Fribourg,Switzerland,7979,-45.0760,-37.1661,-1:00,"Azores, Cape Verde Islands",2022-03-14,361
+518,Hilvertshof,Heemskerk,Flevoland,Netherlands,40761,-71.7096,145.9795,-12:00,"Eniwetok, Kwajalein",2022-03-14,362
+3530,Highfield Road,Newbridge,South Dublin,Ireland,69905,17.9922,-156.6850,-5:00,"Eastern Time (US & Canada), Bogota, Lima",2022-03-14,363
+796,Toften,Brondby,Danmark,Denmark,97680,-88.2802,32.0382,+1:00,"Brussels, Copenhagen, Madrid, Paris",2022-03-14,364
+7731,Krokusvej,København S,Sjælland,Denmark,58904,-37.5040,135.1814,+9:00,"Tokyo, Seoul, Osaka, Sapporo, Yakutsk",2022-03-14,365
+6125,حقانی,زاهدان,بوشهر,Iran,47116,-63.1025,143.4673,+6:00,"Almaty, Dhaka, Colombo",2022-03-14,366
+1626,دیباجی,اردبیل,اردبیل,Iran,12828,-88.8968,-39.5030,+7:00,"Bangkok, Hanoi, Jakarta",2022-03-14,367
+941,Calle Mota,Guadalajara,Cantabria,Spain,21657,-43.1899,16.1027,-4:00,"Atlantic Time (Canada), Caracas, La Paz",2022-03-14,368
+7230,Miller Ave,Nowra,Tasmania,Australia,2805,-44.5155,-93.3419,+9:00,"Tokyo, Seoul, Osaka, Sapporo, Yakutsk",2022-03-14,369
+6929,شهید محمد منتظری,بروجرد,کرمان,Iran,79902,62.9313,-16.2516,+7:00,"Bangkok, Hanoi, Jakarta",2022-03-14,370
+933,Rue Paul-Duvivier,Oulens-Sous-Echallens,Appenzell Innerrhoden,Switzerland,3196,28.7557,-39.7466,+10:00,"Eastern Australia, Guam, Vladivostok",2022-03-14,371
+1773,Symonds Street,Porirua,Marlborough,New Zealand,40337,87.6511,-113.3221,-3:30,Newfoundland,2022-03-14,372
+8700,Mokoia Road,Taupo,Bay of Plenty,New Zealand,12047,13.3031,-76.4406,+7:00,"Bangkok, Hanoi, Jakarta",2022-03-14,373
+4851,Mockingbird Ln,Savannah,Virginia,United States,96808,-11.9584,-9.2149,+5:00,"Ekaterinburg, Islamabad, Karachi, Tashkent",2022-03-14,374
+170,White Oak Dr,Los Angeles,Minnesota,United States,11284,80.6199,-87.5004,0:00,"Western Europe Time, London, Lisbon, Casablanca",2022-03-14,375
+6777,Rue Denfert-Rochereau,Besançon,Hérault,France,67874,-19.7656,135.6444,-10:00,Hawaii,2022-03-14,376
+2659,Rua Belo Horizonte ,Feira de Santana,Amazonas,Brazil,72048,-31.7828,-63.2556,+4:00,"Abu Dhabi, Muscat, Baku, Tbilisi",2022-03-14,377
+9320,Rua Dois,Osasco,Pará,Brazil,73843,-58.0442,-174.4334,+5:30,"Bombay, Calcutta, Madras, New Delhi",2022-03-14,378
+4678,Rue du Village,Mörschwil,Bern,Switzerland,4710,68.8338,-38.9700,+8:00,"Beijing, Perth, Singapore, Hong Kong",2022-03-14,379
+2927,Innes Road,Tauranga,Auckland,New Zealand,36806,-42.2007,14.7472,-7:00,Mountain Time (US & Canada),2022-03-14,380
+9777,Einsteinplaats,Wesepe,Friesland,Netherlands,34886,-55.0049,-70.3884,+8:00,"Beijing, Perth, Singapore, Hong Kong",2022-03-14,381
+3930,Avenue Vauban,Clermont-Ferrand,Vendée,France,48015,27.5650,-153.7347,+6:00,"Almaty, Dhaka, Colombo",2022-03-14,382
+5741,Şehitler Cd,Bilecik,Malatya,Turkey,97914,1.0533,-103.4949,-6:00,"Central Time (US & Canada), Mexico City",2022-03-14,383
+6416,W 6th St,Lansing,Wyoming,United States,23631,41.3882,-41.6105,0:00,"Western Europe Time, London, Lisbon, Casablanca",2022-03-14,384
+3268,The Green,Londonderry,County Antrim,United Kingdom,E8 9TP,82.7026,-91.4001,0:00,"Western Europe Time, London, Lisbon, Casablanca",2022-03-14,385
+9851,Washington Ave,Antioch,Oregon,United States,32971,-79.4351,-170.0439,0:00,"Western Europe Time, London, Lisbon, Casablanca",2022-03-14,386
+9914,Calle de La Luna,Mérida,La Rioja,Spain,63568,19.0030,150.8278,+5:45,Kathmandu,2022-03-14,387
+7245,Quai Chauveau,Huttwil,Neuchâtel,Switzerland,8095,-38.9856,-142.4794,+10:00,"Eastern Australia, Guam, Vladivostok",2022-03-14,388
+8597,Rua Santo Antônio ,Macapá,Rondônia,Brazil,76635,62.6518,-103.3443,+9:00,"Tokyo, Seoul, Osaka, Sapporo, Yakutsk",2022-03-14,389
+5978,Rua Carlos Gomes,Rio de Janeiro,Santa Catarina,Brazil,28898,-56.5253,-116.3438,+4:00,"Abu Dhabi, Muscat, Baku, Tbilisi",2022-03-14,390
+3864,Aleksanterinkatu,Nilsiä,Åland,Finland,32568,28.6997,16.5280,-7:00,Mountain Time (US & Canada),2022-03-14,391
+5468,Avenida de La Albufera,Zaragoza,Extremadura,Spain,65473,27.2389,64.1808,+8:00,"Beijing, Perth, Singapore, Hong Kong",2022-03-14,392
+9180,Elgin St,Vancouver,New Hampshire,United States,19532,-71.9106,166.9340,-3:00,"Brazil, Buenos Aires, Georgetown",2022-03-14,393
+6072,Atatürk Sk,Bartın,Kırklareli,Turkey,31302,-86.6728,-88.7930,-3:30,Newfoundland,2022-03-14,394
+8781,Rue du Village,Boulogne-Billancourt,Hautes-Pyrénées,France,55874,37.9539,44.1166,+11:00,"Magadan, Solomon Islands, New Caledonia",2022-03-14,395
+3907,Abanoz Sk,Iğdır,Samsun,Turkey,52990,25.3984,-132.3758,+9:00,"Tokyo, Seoul, Osaka, Sapporo, Yakutsk",2022-03-14,396
+9337,تقوی,بجنورد,قم,Iran,84008,7.3150,-7.0486,-4:00,"Atlantic Time (Canada), Caracas, La Paz",2022-03-14,397
+7896,Place de L'Abbé-Jean-Lebeuf,Turgi,Zug,Switzerland,1882,-82.7434,121.8953,+5:45,Kathmandu,2022-03-14,398
+832,Vetlandsveien,Åros,Oppland,Norway,4677,-75.0898,2.2454,+2:00,"Kaliningrad, South Africa",2022-03-14,399
+6491,Korkeavuorenkatu,Lempäälä,Ostrobothnia,Finland,17460,69.8278,26.2263,+6:00,"Almaty, Dhaka, Colombo",2022-03-14,400
+6127,Ellerslie-Panmure Highway,Whanganui,Gisborne,New Zealand,17217,-46.0435,-20.3632,-3:00,"Brazil, Buenos Aires, Georgetown",2022-03-14,401
+6207,Vatan Cd,Çorum,Kayseri,Turkey,31582,-81.0687,-144.7347,+5:30,"Bombay, Calcutta, Madras, New Delhi",2022-03-14,402
+72,Søvejen,Nimtofte,Nordjylland,Denmark,39406,4.5298,-155.1580,+6:00,"Almaty, Dhaka, Colombo",2022-03-14,403
+9310,Spring St,Jersey City,Wisconsin,United States,51345,13.8845,117.6373,-11:00,"Midway Island, Samoa",2022-03-14,404
+7978,Flaxmere Ave,Auckland,Auckland,New Zealand,66006,-72.4031,-167.5096,-7:00,Mountain Time (US & Canada),2022-03-14,405
+7864,Dokter Rupertlaan,Uitwellingerga,Friesland,Netherlands,12025,-4.7526,-134.9310,+8:00,"Beijing, Perth, Singapore, Hong Kong",2022-03-14,406
+6158,Place des 44 Enfants D'Izieu,Villeurbanne,Cantal,France,80284,46.0621,-47.5796,+9:00,"Tokyo, Seoul, Osaka, Sapporo, Yakutsk",2022-03-14,407
+9723,آزادی,شهریار,کهگیلویه و بویراحمد,Iran,65716,58.2659,174.3891,-12:00,"Eniwetok, Kwajalein",2022-03-14,408
+1519,Rua Rio de Janeiro ,Londrina,Bahia,Brazil,92140,-60.5209,132.5241,-8:00,Pacific Time (US & Canada),2022-03-14,409
+200,Hyllveien,Torvik,Vestfold,Norway,4843,46.9700,-12.6318,+9:00,"Tokyo, Seoul, Osaka, Sapporo, Yakutsk",2022-03-14,410
+9210,Holgerslystveien,Kirkegrenda,Oppland,Norway,4036,-7.3658,-130.5131,-7:00,Mountain Time (US & Canada),2022-03-14,411
+6163,Rue Principale,Perpignan,Haute-Saône,France,94820,51.8447,-53.6461,+5:30,"Bombay, Calcutta, Madras, New Delhi",2022-03-14,412
+3901,New Street,Newry,County Armagh,United Kingdom,EI4 3ZH,42.9511,74.3842,-5:00,"Eastern Time (US & Canada), Bogota, Lima",2022-03-14,413
+7960,Paseo de Zorrilla,Elche,Castilla la Mancha,Spain,36909,28.1457,-107.5150,-2:00,Mid-Atlantic,2022-03-14,414
+7579,Grafton Street,Clonakilty,Meath,Ireland,58512,-12.9393,29.8597,-10:00,Hawaii,2022-03-14,415
+1566,Rue Duguesclin,Montpellier,Haute-Vienne,France,13100,74.2767,133.4174,-9:00,Alaska,2022-03-14,416
+14,امیرکبیر,ملارد,چهارمحال و بختیاری,Iran,82373,-53.4993,-87.6449,-6:00,"Central Time (US & Canada), Mexico City",2022-03-14,417
+2233,میدان 15خرداد,قائم‌شهر,اصفهان,Iran,38022,-63.2764,-48.1707,+7:00,"Bangkok, Hanoi, Jakarta",2022-03-14,418
+1469,Rosenweg,Pohlheim,Thüringen,Germany,81194,-87.4437,13.2092,-11:00,"Midway Island, Samoa",2022-03-14,419
+2451,Suvantokatu,Oulainen,Southern Ostrobothnia,Finland,59193,84.8994,141.8442,+11:00,"Magadan, Solomon Islands, New Caledonia",2022-03-14,420
+4195,Hirsevænget,Ølstykke,Syddanmark,Denmark,94731,-30.8412,-77.0451,+2:00,"Kaliningrad, South Africa",2022-03-14,421
+3248,Samaritan Dr,Philadelphia,North Dakota,United States,66622,-47.6596,-86.2349,+5:00,"Ekaterinburg, Islamabad, Karachi, Tashkent",2022-03-14,422
+9125,Ringkøbingvej,Argerskov,Danmark,Denmark,62894,45.6169,160.6474,+5:00,"Ekaterinburg, Islamabad, Karachi, Tashkent",2022-03-14,423
+6058,Alexander Road,Galway,Leitrim,Ireland,49546,-13.2633,-91.3583,+1:00,"Brussels, Copenhagen, Madrid, Paris",2022-03-14,424
+1067,Haugerudsenteret,Vormsund,Hedmark,Norway,4678,24.0351,19.5332,+6:00,"Almaty, Dhaka, Colombo",2022-03-14,425
+7198,Hollandse Kade,Middelburg,Zuid-Holland,Netherlands,99719,-5.5021,-114.8807,+9:30,"Adelaide, Darwin",2022-03-14,426
+5951,Rue des Jardins,Kemmental,Appenzell Ausserrhoden,Switzerland,3766,-73.8769,139.0495,+3:00,"Baghdad, Riyadh, Moscow, St. Petersburg",2022-03-14,427
+2500,Tara Street,Kildare,Wicklow,Ireland,38468,-41.6677,151.0926,+10:00,"Eastern Australia, Guam, Vladivostok",2022-03-14,428
+9483,Erve Kokenberg,Noordijk,Friesland,Netherlands,34215,-65.8449,-129.2337,+6:00,"Almaty, Dhaka, Colombo",2022-03-14,429
+1512,Esplanadi,Vantaa,Pirkanmaa,Finland,55574,86.4030,73.4208,-5:00,"Eastern Time (US & Canada), Bogota, Lima",2022-03-14,430
+1383,Quai Chauveau,Rouen,Yvelines,France,13056,-13.3359,-102.7713,+6:00,"Almaty, Dhaka, Colombo",2022-03-14,431
+5498,Nordenskiöldinkatu,Larsmo,Uusimaa,Finland,51819,76.6351,-29.1384,+3:00,"Baghdad, Riyadh, Moscow, St. Petersburg",2022-03-14,432
+8680,Doktorlar Cd,Diyarbakır,Kırıkkale,Turkey,66870,25.5334,173.6396,+4:00,"Abu Dhabi, Muscat, Baku, Tbilisi",2022-03-14,433
+9639,Place de L'Abbé-Jean-Lebeuf,Avignon,Meurthe-et-Moselle,France,75501,-28.7587,66.1456,-1:00,"Azores, Cape Verde Islands",2022-03-14,434
+7391,Hermiankatu,Aura,Southern Ostrobothnia,Finland,18886,55.7102,134.0053,-11:00,"Midway Island, Samoa",2022-03-14,435
+9823,Avenida del Planetario,Cuenca,Asturias,Spain,58959,68.5247,-111.1071,-7:00,Mountain Time (US & Canada),2022-03-14,436
+627,Islandsvej,Roslev,Nordjylland,Denmark,96096,52.6612,-154.7908,0:00,"Western Europe Time, London, Lisbon, Casablanca",2022-03-14,437
+7615,Sponhoggbakken,Ydstebøhamn,Telemark,Norway,5474,25.3244,-71.3488,+2:00,"Kaliningrad, South Africa",2022-03-14,438
+5527,Calle de Pedro Bosch,Torrejón de Ardoz,Ceuta,Spain,29466,-70.4985,117.9917,+5:45,Kathmandu,2022-03-14,439
+300,Gaupefaret,Momoen,Sogn og Fjordane,Norway,7012,1.3199,55.0228,+10:00,"Eastern Australia, Guam, Vladivostok",2022-03-14,440
+7954,Marsh Ln,Riverside,South Carolina,United States,14442,47.2789,-126.1357,-9:00,Alaska,2022-03-14,441
+7646,Rua Vinte de Setembro,Praia Grande,Rio Grande do Sul,Brazil,12031,43.2168,-38.4092,+9:00,"Tokyo, Seoul, Osaka, Sapporo, Yakutsk",2022-03-14,442
+5276,The Crescent,Exeter,South Glamorgan,United Kingdom,L4L 4WT,83.9277,-119.1676,+7:00,"Bangkok, Hanoi, Jakarta",2022-03-14,443
+4184,Drosselweg,Rieneck,Nordrhein-Westfalen,Germany,98470,35.2632,-81.5345,-4:00,"Atlantic Time (Canada), Caracas, La Paz",2022-03-14,444
+8840,Kirchweg,St. Wendel,Saarland,Germany,93320,76.3544,-81.9528,+3:00,"Baghdad, Riyadh, Moscow, St. Petersburg",2022-03-14,445
+3769,میدان امام خمینی,سنندج,مرکزی,Iran,80114,55.4092,-142.1407,-11:00,"Midway Island, Samoa",2022-03-14,446
+8582,Calle del Arenal,Pontevedra,Aragón,Spain,38741,-73.9910,-111.1955,+3:30,Tehran,2022-03-14,447
+2813,Søgårdsvej,Bælum,Sjælland,Denmark,23350,75.3457,-97.0314,+1:00,"Brussels, Copenhagen, Madrid, Paris",2022-03-14,448
+3268,Church Street,Listowel,Limerick,Ireland,96958,-25.7292,-163.8478,-8:00,Pacific Time (US & Canada),2022-03-14,449
+2082,Rua Santa Luzia ,Guarapari,Rondônia,Brazil,27361,23.0742,54.2337,+11:00,"Magadan, Solomon Islands, New Caledonia",2022-03-14,450
+914,Cours Charlemagne,Nice,Sarthe,France,47949,65.6773,-157.7366,-11:00,"Midway Island, Samoa",2022-03-14,451
+1604,Manor Road,Dundee,Lancashire,United Kingdom,CG8 5TB,65.2020,140.5919,-7:00,Mountain Time (US & Canada),2022-03-14,452
+4385,Dalhousie Ave,Delta,Northwest Territories,Canada,Z9J 1Y4,19.5001,-141.3465,+8:00,"Beijing, Perth, Singapore, Hong Kong",2022-03-14,453
+1113,میدان سلماس,ورامین,هرمزگان,Iran,61722,-82.4184,-107.3494,-1:00,"Azores, Cape Verde Islands",2022-03-14,454
+1883,Ferguson Street,Masterton,Northland,New Zealand,72121,-49.4681,47.1702,+9:00,"Tokyo, Seoul, Osaka, Sapporo, Yakutsk",2022-03-14,455
+184,Fenton Street,Lower Hutt,Canterbury,New Zealand,60727,31.7687,-178.1400,-3:30,Newfoundland,2022-03-14,456
+1945,Slugten,Støvring ,Hovedstaden,Denmark,79178,89.7838,-142.1996,+6:00,"Almaty, Dhaka, Colombo",2022-03-14,457
+1082,Rue du Moulin,Lonay,Vaud,Switzerland,2686,-66.7313,-140.6815,-9:00,Alaska,2022-03-14,458
+4593,Rua Treze de Maio ,Mossoró,Amapá,Brazil,47228,18.9352,74.7793,-9:00,Alaska,2022-03-14,459
+9443,Place de L'Abbé-Georges-Hénocque,Veyrier,Nidwalden,Switzerland,6451,45.6693,139.0414,+1:00,"Brussels, Copenhagen, Madrid, Paris",2022-03-14,460
+3494,Avenue Vauban,Vitry-sur-Seine,Essonne,France,58111,-42.6925,-125.1260,-2:00,Mid-Atlantic,2022-03-14,461
+8227,Rue du Dauphiné,Fort-de-France,Charente-Maritime,France,36187,-88.9992,176.7455,+1:00,"Brussels, Copenhagen, Madrid, Paris",2022-03-14,462
+7910,Rua Pernambuco ,Ilhéus,Pernambuco,Brazil,62598,62.6023,-176.5906,+9:30,"Adelaide, Darwin",2022-03-14,463
+3905,Strand Road,Shannon,Galway City,Ireland,20006,-55.2923,-76.1529,0:00,"Western Europe Time, London, Lisbon, Casablanca",2022-03-14,464
+9536,Søtoften,Hurup Thy,Midtjylland,Denmark,24653,-25.4563,131.5354,+1:00,"Brussels, Copenhagen, Madrid, Paris",2022-03-14,465
+4395,Veitvetstubben,Sørkjosen,Vestfold,Norway,2965,-60.3541,-31.3304,+11:00,"Magadan, Solomon Islands, New Caledonia",2022-03-14,466
+7181,Rue Barrème,Dürrenäsch,Solothurn,Switzerland,4635,3.6711,-126.6607,-12:00,"Eniwetok, Kwajalein",2022-03-14,467
+4800,Mühlenweg,Schifferstadt,Nordrhein-Westfalen,Germany,51492,76.7753,169.7302,+5:00,"Ekaterinburg, Islamabad, Karachi, Tashkent",2022-03-14,468
+9860,Rua Vinte E Dois ,Patos de Minas,Goiás,Brazil,46069,-45.8908,-29.1470,-12:00,"Eniwetok, Kwajalein",2022-03-14,469
+1234,Avenue Vauban,Safnern,Zug,Switzerland,1986,86.8897,134.3588,+9:00,"Tokyo, Seoul, Osaka, Sapporo, Yakutsk",2022-03-14,470
+9025,Am Sportplatz,Tönning,Hessen,Germany,58836,32.9534,68.5397,-11:00,"Midway Island, Samoa",2022-03-14,471
+1331,Golfsvinget,Esbjerg V,Nordjylland,Denmark,68129,-70.9743,-119.8645,+1:00,"Brussels, Copenhagen, Madrid, Paris",2022-03-14,472
+672,Vatan Cd,Hakkâri,İzmir,Turkey,70356,-35.6045,80.8185,+7:00,"Bangkok, Hanoi, Jakarta",2022-03-14,473
+6948,Bairds Road,Timaru,Manawatu-Wanganui,New Zealand,70673,-14.1595,-128.4086,+10:00,"Eastern Australia, Guam, Vladivostok",2022-03-14,474
+2350,Pearse Street,Youghal,Limerick,Ireland,42643,57.9336,-74.2818,+2:00,"Kaliningrad, South Africa",2022-03-14,475
+1562,Avenue des Ternes,Nantes,Gers,France,82866,19.3479,-120.4927,-1:00,"Azores, Cape Verde Islands",2022-03-14,476
+1562,Bay Ave,Lasalle,New Brunswick,Canada,B9R 9O5,-73.0705,-139.4001,+9:00,"Tokyo, Seoul, Osaka, Sapporo, Yakutsk",2022-03-14,477
+4906,Dane St,Victorville,Pennsylvania,United States,17170,54.4392,-154.0377,-5:00,"Eastern Time (US & Canada), Bogota, Lima",2022-03-14,478
+2296,Karen Dr,Daly City,Arizona,United States,65893,-68.2643,123.0292,-4:00,"Atlantic Time (Canada), Caracas, La Paz",2022-03-14,479
+1672,Jacob van Ruysdaelplein,Oss,Overijssel,Netherlands,59191,78.9196,178.9261,-9:00,Alaska,2022-03-14,480
+3042,Simcoe St,Greenwood,British Columbia,Canada,J7A 1E3,-73.4523,44.0277,+6:00,"Almaty, Dhaka, Colombo",2022-03-14,481
+7313,Skelagervej,Oure,Danmark,Denmark,20672,37.6832,153.0826,-6:00,"Central Time (US & Canada), Mexico City",2022-03-14,482
+3397,ولیعصر / مصدق,ساری,خراسان شمالی,Iran,98496,-53.8236,-152.5603,+4:00,"Abu Dhabi, Muscat, Baku, Tbilisi",2022-03-14,483
+4354,Depaul Dr,Kansas City,Iowa,United States,43021,-70.1061,113.1534,+1:00,"Brussels, Copenhagen, Madrid, Paris",2022-03-14,484
+8833,De Geerstraat,Poortvliet,Groningen,Netherlands,56551,34.0077,88.3843,-12:00,"Eniwetok, Kwajalein",2022-03-14,485
+9586,Mockingbird Hill,Cedar Rapids,Oregon,United States,16014,41.1771,-1.0097,+3:30,Tehran,2022-03-14,486
+4221,Spring Hill Rd,Spokane,Alabama,United States,44504,-71.5909,-126.6735,+3:00,"Baghdad, Riyadh, Moscow, St. Petersburg",2022-03-14,487
+1284,Essinckbelt,Abcoude,Drenthe,Netherlands,22237,-23.2151,3.8978,-12:00,"Eniwetok, Kwajalein",2022-03-14,488
+7195,Lake of Bays Road,Melbourne,Ontario,Canada,O4X 1O0,-83.4731,13.0429,+5:30,"Bombay, Calcutta, Madras, New Delhi",2022-03-14,489
+926,Gemmadal,Duizel,Noord-Holland,Netherlands,76504,-28.1152,45.9120,+1:00,"Brussels, Copenhagen, Madrid, Paris",2022-03-14,490
+6850,Wiesenstraße,Schortens,Saarland,Germany,70428,30.4985,79.7969,-3:30,Newfoundland,2022-03-14,491
+7263,Rue Courbet,Gelterkinden,Nidwalden,Switzerland,3405,40.4360,178.7655,+5:30,"Bombay, Calcutta, Madras, New Delhi",2022-03-14,492
+299,Lundtoftevej,Odense Sv,Syddanmark,Denmark,47581,-69.3299,-51.1176,+1:00,"Brussels, Copenhagen, Madrid, Paris",2022-03-14,493
+3888,Bergstraße,Tann (Rhön),Mecklenburg-Vorpommern,Germany,70865,-48.2332,173.2520,+5:45,Kathmandu,2022-03-14,494
+1630,Weymouth Road,Christchurch,Taranaki,New Zealand,17026,9.3810,-156.8810,+3:30,Tehran,2022-03-14,495
+1913,Walnut Hill Ln,Shiloh,Missouri,United States,19861,-73.6243,-82.4675,+9:30,"Adelaide, Darwin",2022-03-14,496
+6108,Rolling Green Rd,Bendigo,South Australia,Australia,7890,4.2023,-176.8923,-11:00,"Midway Island, Samoa",2022-03-14,497
+1394,Calle del Barquillo,Jerez de la Frontera,Canarias,Spain,27600,-30.3952,-91.8032,+9:00,"Tokyo, Seoul, Osaka, Sapporo, Yakutsk",2022-03-14,498
+439,Hoge Gouw,Bruchem,Utrecht,Netherlands,14344,-24.6452,33.8433,-3:30,Newfoundland,2022-03-14,499
