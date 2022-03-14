@@ -84,7 +84,7 @@ if __name__ == "__main__":
                                 }
         df_users.rename(columns=rename_columns, inplace=True)
 
-        file_name = str(today).split(" ")[0].replace("-","") + "_users.csv"
+        file_name = "data/" + str(today).split(" ")[0].replace("-","") + "_users.csv"
         df_users.to_csv(file_name, encoding='utf-8', index=False)
         print("Saved csv file to", file_name)
 
@@ -136,7 +136,7 @@ if __name__ == "__main__":
         df_login.rename(columns=rename_columns, inplace=True)
         df_login.head()
 
-        file_name = str(today).split(" ")[0].replace("-","") + "_login.csv"
+        file_name = "data/" + str(today).split(" ")[0].replace("-","") + "_login.csv"
         df_login.to_csv(file_name, encoding='utf-8', index=False)
         print("Saved csv file to", file_name)
 
@@ -196,7 +196,7 @@ if __name__ == "__main__":
                                 }
         df_address.rename(columns=rename_columns, inplace=True)
 
-        file_name = str(today).split(" ")[0].replace("-","") + "_address.csv"
+        file_name = "data/" + str(today).split(" ")[0].replace("-","") + "_address.csv"
         df_address.to_csv(file_name, encoding='utf-8', index=False)
         print("Saved csv file to", file_name)
 
@@ -243,6 +243,6 @@ if __name__ == "__main__":
                 "id.value" : "value",}
         df_sensitive.rename(columns=rename_columns, inplace=True)
 
-        file_name = str(today).split(" ")[0].replace("-","") + "_sensitive.csv"
+        file_name = "data/" + str(today).split(" ")[0].replace("-","") + "_sensitive.csv"
         df_sensitive.to_csv(file_name, encoding='utf-8', index=False)
         print("Saved csv file to", file_name)
